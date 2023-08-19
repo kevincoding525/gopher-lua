@@ -10,7 +10,7 @@ var RegistrySize = 256 * 20
 var RegistryGrowStep = 32
 var CallStackSize = 256
 var MaxTableGetLoop = 100
-var MaxArrayIndex = 500000
+var MaxArrayIndex = 0
 
 type LNumber float64
 
